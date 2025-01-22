@@ -8,7 +8,7 @@ Language <div align="left">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react,vue,flutter&perline=3" height="40" alt="react"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript"  
     /></div> <br/>
