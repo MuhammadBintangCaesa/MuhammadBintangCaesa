@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Everyone 👋
 Language <div align="left"> 
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
