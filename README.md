@@ -6,11 +6,11 @@ Language <div align="left">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="react"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="typescript"  
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react"  
     /></div> <br/>
 Sofware Coding <div align="left"> 
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
