@@ -11,7 +11,9 @@ Language <div align="left">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="reactjs"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react"  
     /></div> <br/>
