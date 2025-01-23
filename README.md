@@ -1,7 +1,7 @@
 ## Hi Everyone👋
-<p>👨‍💻 Web Developer | Front end | Lifelong Learner <br>
+<p>👨‍💻 Web Developer | Front end | Mobile Developer <br>
 💡 Passionate about writing clean, efficient, and maintainable code. <br>
-🔧 Tech Stack: JavaScript, Flutter, Dart, and TypeScript | Frameworks: React, Node.js, Django<br>
+🔧 Tech Stack: JavaScript, Flutter, Dart, and TypeScript | Frameworks: React, Node.js<br>
 🌟 Open-source enthusiast contributing to projects that make a difference.<br>
 📚 Currently exploring course computing and AI-powered solutions.</p>
 Language <div align="left"> 
