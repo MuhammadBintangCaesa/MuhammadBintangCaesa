@@ -3,7 +3,7 @@
 💡 Passionate about writing clean, efficient, and maintainable code. <br>
 🔧 Tech Stack: JavaScript, Flutter, Dart, and TypeScript | Frameworks: React, Node.js, Django<br>
 🌟 Open-source enthusiast contributing to projects that make a difference.<br>
-📚 Currently exploring cloud computing and AI-powered solutions.</p>
+📚 Currently exploring course computing and AI-powered solutions.</p>
 Language <div align="left"> 
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
