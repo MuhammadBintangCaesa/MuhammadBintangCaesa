@@ -1,4 +1,5 @@
-## Hi Everyone 👋
+## Hi Everyone👋
+
 Language <div align="left"> 
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -17,4 +18,3 @@ Sofware Coding <div align="left">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div> <br/>
-https://skillicons.dev/icons?i=ts
