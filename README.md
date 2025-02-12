@@ -21,9 +21,9 @@ Language <div align="left">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react"  <br/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap	" height="40" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind	" height="40" alt="tailwind logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=golang" height="40" alt="typescript"  />
   <img width="12" />
