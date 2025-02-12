@@ -27,6 +27,10 @@ Language <div align="left">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=golang" height="40" alt="typescript"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
 </div>
 Sofware Coding <div align="left"> 
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
