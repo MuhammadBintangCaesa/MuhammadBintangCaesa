@@ -1,6 +1,6 @@
 ## Hi Everyone👋
 <p>👨‍💻 Web Developer | Front end | Mobile Developer <br>
-<p> U can Check MyInstagram or Direct Massage In my social media. ,<br>
+<p>Check MyInstagram or Direct Massage In my social media if u have question<br>
 💡 Passionate about writing clean, efficient, and maintainable code. <br>
 🔧 Tech Stack: JavaScript, Flutter, Dart, and TypeScript | Frameworks: Reactjs , bootstrap<br>
 📚 Currently exploring course computing and AI-powered solutions.</p>
