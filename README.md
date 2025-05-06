@@ -20,7 +20,8 @@ Always learn from mistakes and try not to repeat them again</p>
       </button>
     </a>
   </div>
-</div>
+</div> <br>
+
 Language <div align="left"> 
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
