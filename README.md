@@ -20,7 +20,7 @@
 
 ---
 
-### 🌐 Socials
+### Socials
 
 <a href="https://www.instagram.com/bntngca_/" target="_blank">
   <img src="https://img.icons8.com/ios-filled/30/e1306c/instagram-new.png" alt="Instagram" style="margin-right: 10px;" />
@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
@@ -51,7 +51,7 @@
 
 ---
 
-### 💻 Software & Tools
+### Software & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" />
