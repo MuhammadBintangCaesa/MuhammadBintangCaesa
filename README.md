@@ -1,4 +1,4 @@
-<center>
+![image](https://github.com/user-attachments/assets/5fef7e3d-5e0c-4d35-ab68-8f5e8ef7a612)<center>
 
 ## 👋 Hi Everybody!  
 ### I'm Muhammad Bintang Caesa
@@ -9,7 +9,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBintangCaesa&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBintangCaesa&layout=compact&theme=tokyonight" height="180" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBintangCaesa&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </div>
 
 ---
