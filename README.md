@@ -1,7 +1,6 @@
 ## Hello everybody 
-## let me introduce myself my name is Bintang
-<p>👨‍💻 Web Developer || Front end || Mobile Developer<br></p>
-<p>always learn from mistakes and try not to repeat them again</p>
+<p>👨‍💻 Web Developer || Front end || Mobile Developer<br>
+Always learn from mistakes and try not to repeat them again</p>
 Language <div align="left"> 
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
