@@ -37,7 +37,7 @@ Language <div align="left">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react"  <br/>
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
