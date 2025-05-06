@@ -3,19 +3,21 @@
 ## 👋 Hi Everybody!  
 ### I'm Muhammad Bintang   
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBintangCaesa&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBintangCaesa&layout=compact&theme=tokyonight" height="180" /> 
-</div>
- 
-
 👨‍💻 Web Developer · Front-end · Mobile Developer  
 💡 Always learning, always building, always improving.  
 🔁 I Always Learn from mistakes and try not to repeat them again.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBintangCaesa&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBintangCaesa&layout=compact&theme=tokyonight" height="180" /> 
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadBintangCaesa&theme=tokyo-night" />
+</div>
+
 ---
 
-### Badges & Stats
+### Badges
 
 ![Visitors](https://komarev.com/ghpvc/?username=MuhammadBintangCaesa&style=flat-square&color=blue)  
 ![GitHub Followers](https://img.shields.io/github/followers/MuhammadBintangCaesa?style=social)  
@@ -63,21 +65,4 @@
   <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm logo" />
 </div>
 
----
-
-### Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBintangCaesa&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBintangCaesa&layout=compact&theme=tokyonight" height="180" /> 
-  ![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadBintangCaesa&theme=github-dark)
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadBintangCaesa&theme=tokyo-night" />
-</div>
 
