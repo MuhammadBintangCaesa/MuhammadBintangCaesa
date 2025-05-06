@@ -3,6 +3,10 @@
 ## 👋 Hi Everybody!  
 ### I'm Muhammad Bintang   
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBintangCaesa&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBintangCaesa&layout=compact&theme=tokyonight" height="180" /> 
+</div>
  
 
 👨‍💻 Web Developer · Front-end · Mobile Developer  
@@ -11,7 +15,7 @@
 
 ---
 
-### Badges
+### Badges & Stats
 
 ![Visitors](https://komarev.com/ghpvc/?username=MuhammadBintangCaesa&style=flat-square&color=blue)  
 ![GitHub Followers](https://img.shields.io/github/followers/MuhammadBintangCaesa?style=social)  
