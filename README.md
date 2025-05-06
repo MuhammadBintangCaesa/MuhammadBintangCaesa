@@ -11,7 +11,7 @@
 
 ---
 
-### 🏷️ Badges
+### Badges
 
 ![Visitors](https://komarev.com/ghpvc/?username=MuhammadBintangCaesa&style=flat-square&color=blue)  
 ![GitHub Followers](https://img.shields.io/github/followers/MuhammadBintangCaesa?style=social)  
