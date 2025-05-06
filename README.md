@@ -7,13 +7,13 @@ Always learn from mistakes and try not to repeat them again</p>
   </h3>
   <hr style="border: 1px solid #2e2e2e; margin: 10px 0;">
   <div style="display: flex; gap: 10px;">
-    <a href="https://instagram.com/yourusername" target="_blank" style="text-decoration: none;">
+    <a href="https://www.instagram.com/bntngca_/" target="_blank" style="text-decoration: none;">
       <button style="background-color: #e1306c; border: none; padding: 8px 16px; color: white; border-radius: 6px; cursor: pointer; font-weight: bold; display: flex; align-items: center; gap: 6px;">
         <img src="https://img.icons8.com/ios-filled/20/ffffff/instagram-new.png" alt="Instagram"/>
         Instagram
       </button>
     </a>
-    <a href="https://linkedin.com/in/yourusername" target="_blank" style="text-decoration: none;">
+    <a href="https://www.linkedin.com/in/muhammad-bintang-caesa-113b10317/" target="_blank" style="text-decoration: none;">
       <button style="background-color: #0077b5; border: none; padding: 8px 16px; color: white; border-radius: 6px; cursor: pointer; font-weight: bold; display: flex; align-items: center; gap: 6px;">
         <img src="https://img.icons8.com/ios-filled/20/ffffff/linkedin.png" alt="LinkedIn"/>
         LinkedIn
