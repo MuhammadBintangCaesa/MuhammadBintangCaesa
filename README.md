@@ -7,7 +7,7 @@
 
 👨‍💻 Web Developer · Front-end · Mobile Developer  
 💡 Always learning, always building, always improving.  
-🔁 Learn from mistakes and try not to repeat them again.
+🔁 I Always Learn from mistakes and try not to repeat them again.
 
 ---
 
