@@ -70,7 +70,6 @@
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MuhammadBintangCaesa&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadBintangCaesa&theme=tokyo-night" />
 </div>
 
-</center>
