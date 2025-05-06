@@ -1,6 +1,26 @@
 ## Hello everybody 
 <p>👨‍💻 Web Developer || Front end || Mobile Developer<br>
 Always learn from mistakes and try not to repeat them again</p>
+<div style="background-color: #0d0d0d; padding: 20px; color: white; font-family: Arial, sans-serif;">
+  <h3 style="display: flex; align-items: center; gap: 8px;">
+    🌐 <span>Socials:</span>
+  </h3>
+  <hr style="border: 1px solid #2e2e2e; margin: 10px 0;">
+  <div style="display: flex; gap: 10px;">
+    <a href="https://instagram.com/yourusername" target="_blank" style="text-decoration: none;">
+      <button style="background-color: #e1306c; border: none; padding: 8px 16px; color: white; border-radius: 6px; cursor: pointer; font-weight: bold; display: flex; align-items: center; gap: 6px;">
+        <img src="https://img.icons8.com/ios-filled/20/ffffff/instagram-new.png" alt="Instagram"/>
+        Instagram
+      </button>
+    </a>
+    <a href="https://linkedin.com/in/yourusername" target="_blank" style="text-decoration: none;">
+      <button style="background-color: #0077b5; border: none; padding: 8px 16px; color: white; border-radius: 6px; cursor: pointer; font-weight: bold; display: flex; align-items: center; gap: 6px;">
+        <img src="https://img.icons8.com/ios-filled/20/ffffff/linkedin.png" alt="LinkedIn"/>
+        LinkedIn
+      </button>
+    </a>
+  </div>
+</div>
 Language <div align="left"> 
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
