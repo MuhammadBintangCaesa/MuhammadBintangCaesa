@@ -1,8 +1,8 @@
 <center>
-<center>
+
 ## 👋 Hi Everybody!  
 ### I'm Muhammad Bintang   
-</center>
+
  
 
 👨‍💻 Web Developer · Front-end · Mobile Developer  
