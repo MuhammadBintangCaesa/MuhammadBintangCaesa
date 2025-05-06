@@ -11,29 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBintangCaesa&show_icons=true&theme=tokyonight" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBintangCaesa&layout=compact&theme=tokyonight" height="180" /> 
 </div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadBintangCaesa&theme=tokyo-night" />
-</div>
-
----
-
-### Badges
-
-![Visitors](https://komarev.com/ghpvc/?username=MuhammadBintangCaesa&style=flat-square&color=blue)  
-![GitHub Followers](https://img.shields.io/github/followers/MuhammadBintangCaesa?style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/MuhammadBintangCaesa?style=social) <br>
-![Instagram Followers](https://img.shields.io/badge/Instagram-<9.980>-<Blue>)
-
----
-
-### Socials
-
-<a href="https://www.instagram.com/bntngca_/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/30/e1306c/instagram-new.png" alt="Instagram" style="margin-right: 10px;" />
-</a>
-<a href="https://www.linkedin.com/in/muhammad-bintang-caesa-113b10317/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/30/0077b5/linkedin.png" alt="LinkedIn" />
-</a>
 
 ---
 
@@ -65,4 +42,36 @@
   <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm logo" />
 </div>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+  <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm logo" />
+</div>
+---
+
+### Badges
+
+![Visitors](https://komarev.com/ghpvc/?username=MuhammadBintangCaesa&style=flat-square&color=blue)  
+![GitHub Followers](https://img.shields.io/github/followers/MuhammadBintangCaesa?style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/MuhammadBintangCaesa?style=social) <br>
+![Instagram Followers](https://img.shields.io/badge/Instagram-<9.980>-<Blue>)
+
+---
+
+### Socials
+
+<a href="https://www.instagram.com/bntngca_/" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/30/e1306c/instagram-new.png" alt="Instagram" style="margin-right: 10px;" />
+</a>
+<a href="https://www.linkedin.com/in/muhammad-bintang-caesa-113b10317/" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/30/0077b5/linkedin.png" alt="LinkedIn" />
+</a>
+
+---
+
+### Graphic Contribution
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadBintangCaesa&theme=tokyo-night" />
+</div>
 
