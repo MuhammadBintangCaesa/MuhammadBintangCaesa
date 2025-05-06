@@ -66,7 +66,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBintangCaesa&show_icons=true&theme=tokyonight" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBintangCaesa&layout=compact&theme=tokyonight" height="180" /> 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadBintangCaesa&show_icons=true&count_private=true&theme=github_dark)
+  ![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadBintangCaesa&theme=github-dark)
 </div>
 
 ---
