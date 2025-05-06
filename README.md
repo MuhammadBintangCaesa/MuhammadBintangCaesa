@@ -8,7 +8,7 @@
 🔁 I Always Learn from mistakes and try not to repeat them again.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBintangCaesa&show_icons=true&theme=tokyonight" height="180" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBintangCaesa&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </div>
 
