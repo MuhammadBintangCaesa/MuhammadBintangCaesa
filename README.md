@@ -1,4 +1,11 @@
-<div style="text-align: center;">
+<div style="
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  flex-direction: column;
+">
   <h1>Hi Everybody</h1> <br>
   <h1>Hi I'm Muhammad Bintang</h1>
 </div>
