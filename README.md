@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5fef7e3d-5e0c-4d35-ab68-8f5e8ef7a612)<center>
+<center>
 
 ## 👋 Hi Everybody!  
 ### I'm Muhammad Bintang Caesa
