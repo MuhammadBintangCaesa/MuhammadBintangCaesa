@@ -1,4 +1,7 @@
-## Hello everybody 
+<div style="text-align: center;">
+  <h1>Hi Everybody</h1> <br>
+  <h1>Hi I'm Muhammad Bintang</h1>
+</div>
 <p>👨‍💻 Web Developer || Front end || Mobile Developer<br>
 Always learn from mistakes and try not to repeat them again</p>
 <div style="background-color: #0d0d0d; padding: 20px; color: white; font-family: Arial, sans-serif;">
