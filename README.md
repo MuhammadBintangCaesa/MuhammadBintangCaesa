@@ -57,3 +57,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadBintangCaesa&theme=tokyo-night" />
 </div>
 
+<br clear="both">
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
