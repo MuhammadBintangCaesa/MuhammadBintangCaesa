@@ -8,9 +8,8 @@
 🔁 I Always Learn from mistakes and try not to repeat them again.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBintangCaesa&show_icons=true&theme=tokyonight&cache_seconds=2700" height="180" />
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBintangCaesa&show_icons=true&count_private=true&theme=github_dark&chace_seconds=1800" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadBintangCaesa&theme=github-dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadBintangCaesa&theme=tokyonight&chace_seconds=1800" />
 </div>
 
 ---
