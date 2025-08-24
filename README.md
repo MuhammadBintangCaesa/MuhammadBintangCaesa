@@ -29,7 +29,6 @@
   <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm logo" />
 </div>
 
---
 
 ### Graphic Contribution
 
