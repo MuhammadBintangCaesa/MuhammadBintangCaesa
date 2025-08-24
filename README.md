@@ -38,18 +38,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/MuhammadBintangCaesa?style=social) <br>
 ![Instagram Followers](https://img.shields.io/badge/Instagram-<9.980>-<Blue>)
 
----
-
-### Socials
-
-<a href="https://www.instagram.com/bntngca_/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/30/e1306c/instagram-new.png" alt="Instagram" style="margin-right: 10px;" />
-</a>
-<a href="https://www.linkedin.com/in/muhammad-bintang-113b10317/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/30/0077b5/linkedin.png" alt="LinkedIn" />
-</a>
-
----
+--
 
 ### Graphic Contribution
 
