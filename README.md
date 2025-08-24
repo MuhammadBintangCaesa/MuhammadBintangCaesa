@@ -29,15 +29,6 @@
   <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm logo" />
 </div>
 
----
-
-### Badges
-
-![Visitors](https://komarev.com/ghpvc/?username=MuhammadBintangCaesa&style=flat-square&color=blue)  
-![GitHub Followers](https://img.shields.io/github/followers/MuhammadBintangCaesa?style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/MuhammadBintangCaesa?style=social) <br>
-![Instagram Followers](https://img.shields.io/badge/Instagram-<9.980>-<Blue>)
-
 --
 
 ### Graphic Contribution
