@@ -12,15 +12,21 @@
 
 ###
 
-<h1 align="center">Hello Welcome To myProfile 👋</h1>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">
+I'm Muhammad Bintang Caesa from Jakarta, Indonesia.<br><br>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+- 🎓 I’m currently studying at Gunadarma University  
+- 🔭 I’m currently focusing on mobile development  
+- 📚 I'm currently learning mobile programming, especially iOS development  
+- 💻 I also join coding bootcamps to improve my programming skills  
+- ⚡ In my free time I like playing games and exploring new programming languages
+</p>
 
 ###
 
