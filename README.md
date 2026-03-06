@@ -25,6 +25,11 @@
 
 ---
 
+<div>
+👉 https://muhammadbintangcaesa.online/
+</div>
+
+---
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
@@ -79,13 +84,6 @@ I'm **Muhammad Bintang Caesa** from **Jakarta, Indonesia**.
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&theme=tokyonight" height="220"/>
 </div>
-
----
-
-# 🌐 My Portfolio
-
-💻 **Website:**  
-👉 https://muhammadbintangcaesa.online/
 
 ---
 
