@@ -17,7 +17,7 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-<p align="flex">
+<p align="left">
 
 I'm **Muhammad Bintang Caesa** from **Jakarta, Indonesia**.
 
