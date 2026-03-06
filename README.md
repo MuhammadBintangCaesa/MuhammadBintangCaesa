@@ -8,9 +8,19 @@
 ---
 
 <div align="center">
+
+<a href="https://www.linkedin.com/in/muhammad-bintang-caesa-113b10317/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
+</a>
+
+<a href="https://www.youtube.com/@JourneyofBintang">
   <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25"/>
+</a>
+
+<a href="https://www.instagram.com/bntngca_/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25"/>
+</a>
+
 </div>
 
 ---
