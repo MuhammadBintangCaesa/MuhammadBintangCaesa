@@ -25,7 +25,7 @@
 
 ---
 
-<div>
+<div align="center">
 👉 https://muhammadbintangcaesa.online/
 </div>
 
