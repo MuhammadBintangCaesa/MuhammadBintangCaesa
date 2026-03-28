@@ -79,7 +79,7 @@ I'm **Muhammad Bintang Caesa** from **Jakarta, Indonesia**.
 
 ---
 
-<h3 align="left">🔥 My Stats</h3>
+<h3 align="left">Stats</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MuhammadBintangCaesa&theme=tokyonight" height="220"/>
