@@ -32,7 +32,7 @@ https://muhammadbintangcaesa.online/
 </div>
 
 ---
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">About Me</h3>
 
 <p align="left">
 
@@ -89,7 +89,7 @@ I'm **Muhammad Bintang Caesa** from **Jakarta, Indonesia**.
 
 ---
 
-### 💻 Software & Tools
+### Software & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40"/>
