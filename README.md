@@ -89,6 +89,7 @@ I'm **Muhammad Bintang Caesa** from **Jakarta, Indonesia**.
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MuhammadBintangCaesa&layout=compact&theme=tokyonight" />
 </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBintangCaesa&layout=compact&theme=tokyonight&hide=typescript" />
 ---
 
 ### Software & Tools
