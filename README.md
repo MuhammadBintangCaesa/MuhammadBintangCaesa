@@ -87,7 +87,7 @@ I'm **Muhammad Bintang Caesa** from **Jakarta, Indonesia**.
   <img src="https://streak-stats.demolab.com?user=MuhammadBintangCaesa&theme=tokyonight" height="220"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBintangCaesa&layout=compact&theme=tokyonight&langs_count=6" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuhammadBintangCaesa&layout=compact&theme=tokyonight" />
 </div>
 ---
 
