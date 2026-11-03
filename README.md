@@ -92,18 +92,17 @@ I'm **Muhammad Bintang Caesa** from **Jakarta, Indonesia**.
   />
 </div>
 
-<br/>
-
 
 <h3 align="center">💻 Most Used Languages</h3>
 
 <div align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadBintangCaesa&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadBintangCaesa&theme=tokyonight"
     height="220"
     alt="Most Used Languages"
   />
 </div>
+
 
 ---
 
