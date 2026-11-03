@@ -103,14 +103,17 @@ I'm **Muhammad Bintang Caesa** from **Jakarta, Indonesia**.
 
 ---
 
+
 <h3 align="center">💻 Programming Languages</h3>
 
 <div align="center">
   <img
-    src="https://ghstats.dev/api/languages?username=MuhammadBintangCaesa&theme=tokyonight&layout=horizontal_list&max_langs=12"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=MuhammadBintangCaesa&layout=normal&theme=tokyonight&langs_count=12&stats_format=percentages"
     alt="Most Used Programming Languages"
+    width="450"
   />
 </div>
+
 
 ---
 
