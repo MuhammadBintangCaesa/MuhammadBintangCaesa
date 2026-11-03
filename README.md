@@ -26,7 +26,7 @@ Passionate about building modern, functional, and user-friendly applications.
 <br/><br/>
 
 <a href="https://muhammadbintangcaesa.online/">
-  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-1a1b27?style=for-the-badge" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Visit_My_Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
@@ -93,33 +93,24 @@ I'm **Muhammad Bintang Caesa**, a passionate developer based in **Jakarta, Indon
 
 <div align="center">
 
-<img
-  src="https://ghstats.dev/api/card?username=MuhammadBintangCaesa&theme=tokyonight"
-  alt="GitHub Stats"
-  width="480"
-/>
+  <img
+    src="https://ghstats.dev/api/card?username=MuhammadBintangCaesa&theme=tokyonight"
+    alt="GitHub Stats"
+    width="390"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=MuhammadBintangCaesa&layout=compact&theme=tokyonight&langs_count=8&stats_format=percentages"
+    alt="Most Used Languages"
+    width="320"
+  />
 
-<br/><br/>
+  <br/><br/>
 
-<img
-  src="https://streak-stats.demolab.com?user=MuhammadBintangCaesa&theme=tokyonight"
-  alt="GitHub Streak"
-  width="480"
-/>
-
-</div>
-
----
-
-## 💻 Most Used Programming Languages
-
-<div align="center">
-
-<img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=MuhammadBintangCaesa&layout=normal&theme=tokyonight&langs_count=12&stats_format=percentages"
-  alt="Most Used Programming Languages"
-  width="450"
-/>
+  <img
+    src="https://streak-stats.demolab.com?user=MuhammadBintangCaesa&theme=tokyonight"
+    alt="GitHub Streak"
+    width="390"
+  />
 
 </div>
 
