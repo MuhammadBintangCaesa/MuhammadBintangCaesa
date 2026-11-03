@@ -86,19 +86,29 @@ I'm **Muhammad Bintang Caesa** from **Jakarta, Indonesia**.
 
 <div align="center">
   <img
+    src="https://ghstats.dev/api/card?username=MuhammadBintangCaesa&theme=tokyonight"
+    alt="GitHub Statistics"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
     src="https://streak-stats.demolab.com?user=MuhammadBintangCaesa&theme=tokyonight"
     height="220"
     alt="GitHub Streak"
   />
 </div>
 
-<h3 align="center">📊 Programming Languages</h3>
+---
+
+<h3 align="center">💻 Programming Languages</h3>
 
 <div align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadBintangCaesa&theme=tokyonight"
-    height="220"
-    alt="Programming Languages"
+    src="https://ghstats.dev/api/languages?username=MuhammadBintangCaesa&theme=tokyonight&layout=horizontal_list&max_langs=12"
+    alt="Most Used Programming Languages"
   />
 </div>
 
