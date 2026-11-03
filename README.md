@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋 I'm Muhammad Bintang Caesa</h1>
 <h3 align="center">Mobile Developer | Flutter & iOS Enthusiast</h3>
 
@@ -25,74 +26,87 @@
 
 ---
 
-<h3>MyPortoflio</h3>
+<h3 align="center">🌐 My Portfolio</h3>
 
 <div align="center">
-https://muhammadbintangcaesa.online/
+  <a href="https://muhammadbintangcaesa.online/">
+    muhammadbintangcaesa.online
+  </a>
 </div>
 
 ---
-<h3 align="left">About Me</h3>
 
-<p align="left">
+<h3 align="left">About Me</h3>
 
 I'm **Muhammad Bintang Caesa** from **Jakarta, Indonesia**.
 
-- 🎓 I’m currently studying at **Gunadarma University**  
-- 🔭 I’m currently focusing on **Mobile Development**  
-- 📚 I'm currently learning **Mobile Programming, especially iOS Development**  
-- 💻 I also join **coding bootcamps** to improve my programming skills  
+- 🎓 I'm currently studying at **Gunadarma University**
+- 🔭 I'm currently focusing on **Mobile Development**
+- 📚 I'm currently learning **Mobile Programming, especially iOS Development**
+- 💻 I also join **coding bootcamps** to improve my programming skills
 - ⚡ In my free time I like **playing games and exploring programming languages**
-
-</p>
 
 ---
 
 <h3 align="left">🛠 Language and Tools</h3>
 
-<div align="flex">
+<div align="left">
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 </div>
 
 ---
 
-<h3 align="left">Stats</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MuhammadBintangCaesa&theme=tokyonight" height="220"/>
+  <img
+    src="https://streak-stats.demolab.com?user=MuhammadBintangCaesa&theme=tokyonight"
+    height="220"
+    alt="GitHub Streak"
+  />
 </div>
+
+<br/>
+
+<h3 align="center">💻 Most Used Languages</h3>
+
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MuhammadBintangCaesa&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBintangCaesa&layout=compact&theme=tokyonight&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true"
+    height="200"
+    alt="Most Used Languages"
+  />
 </div>
 
 ---
 
-### Software & Tools
+<h3 align="center">⚙️ Software & Tools</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40"/>
@@ -101,5 +115,3 @@ I'm **Muhammad Bintang Caesa** from **Jakarta, Indonesia**.
 </div>
 
 ---
-
-
