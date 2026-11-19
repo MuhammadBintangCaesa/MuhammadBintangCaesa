@@ -3,7 +3,7 @@
 
 # Hi there! 👋 I'm Muhammad Bintang Caesa
 
-### 📱 Mobile Developer | Flutter & iOS Enthusiast
+### Mobile Developer | Flutter & iOS Enthusiast
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Coding Animation"/>
 
