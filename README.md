@@ -3,7 +3,7 @@
 
 # Hi there! 👋 I'm Muhammad Bintang Caesa
 
-### Mobile Developer | Flutter & iOS Enthusiast
+### Fullstack Development | Android & Ios Enthusiast
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Coding Animation"/>
 
@@ -39,7 +39,7 @@ I'm **Muhammad Bintang Caesa**, a passionate developer based in **Jakarta, Indon
 
 - 🎓 **Education:** Informatics student at Gunadarma University
 - 📱 **Focus:** Mobile Application Development
-- 🍎 **Currently Learning:** iOS Development
+- 🍎 **Currently Learning:** Android Development
 - 🚀 **Improving:** Programming skills through coding bootcamps
 - 🎮 **Interests:** Gaming, technology, and exploring programming languages
 
